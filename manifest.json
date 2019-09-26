@@ -4,7 +4,7 @@
     "name": "shanshangnake",
     "scope": "/shanshangnake/",
     "display": "browser",
-    "start_url": "./static/html/index.html",
+    "start_url": "./index.html",
     "short_name": "shanshangnake",
     "theme_color": "#157878",
     "description": "",
