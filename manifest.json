@@ -4,7 +4,7 @@
     "name": "shanshangnake",
     "scope": "/shanshangnake/",
     "display": "browser",
-    "start_url": "https://wucl2.github.io/shanshangnake/",
+    "start_url": "./static/html/index.html",
     "short_name": "shanshangnake",
     "theme_color": "#157878",
     "description": "",
