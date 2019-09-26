@@ -1,0 +1,16 @@
+{
+    "dir": "ltr",
+    "lang": "en-US",
+    "name": "shanshangnake",
+    "scope": "/shanshangnake/",
+    "display": "browser",
+    "start_url": "https://wucl2.github.io/shanshangnake/paw",
+    "short_name": "shanshangnake",
+    "theme_color": "#157878",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": []
+}
